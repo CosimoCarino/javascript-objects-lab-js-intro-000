@@ -1,1 +1,2 @@
-var recipe = new Object()
+var recipe = new Object({eggs:"3"})
+
